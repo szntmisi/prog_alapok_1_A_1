@@ -1,3 +1,8 @@
+body {
+	background-color: #c9e8ff;
+}
+
+
 #felso
 {
 	margin-top: 30px;
@@ -11,10 +16,26 @@
 .kepfelirat
 {
 	text-align: center;
+	font-style: italic;
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+	height: 300px;
+}
+#tortenet {
+	font-weight: bold;
+}
+a{
+	font-weight: bold;
+}
+
+.keret{
+	border: 3px solid #3d5875;
+}
+
+.margo {
+	margin: 20px 0;
 }
